@@ -1,4 +1,5 @@
-TEXTILE Summer 2023: Data Science Module 1 Feedback: 
+**TEXTILE Summer 2023: Data Science Module 1 Feedback:**
+
 Module One: "TEXTILE Data Science in the Nance Lab" 
 Typos/Inconsistencies: 
 The only typo/ mistake identified on the slides was the date/time for the "Meet the PI" slide.  
