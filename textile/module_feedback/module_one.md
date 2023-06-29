@@ -1,33 +1,41 @@
 **TEXTILE Summer 2023: Data Science Module 1 Feedback:**
 
-Module One: "TEXTILE Data Science in the Nance Lab" 
-Typos/Inconsistencies: 
-The only typo/ mistake identified on the slides was the date/time for the "Meet the PI" slide.  
-Feedback on Following the Module: 
-Overall, I was able to follow the module effectively. The structure of the topics was logical, starting with an introduction to data science and the role of data science in the Nance Lab. The module then transitioned into a detailed view of the Lab, and I appreciated the walk-through of the data science/research modules. All interactive sessions were helpful in aiding with learning, and I found them useful in staying engaged with asynchronous learning. Ultimately, I think the module does a great job at introducing students to new and complex topics as well as laying out the topics/ concepts that we will dive into later in the summer. However, when introducing the topics we will learn about this summer in the Data Science part of the module, a lot of information was presented at once, which made it a bit challenging to keep up. Perhaps this section could be slowed down a bit, or further divided into smaller subtopics. 
-Improved Summaries: 
-Introduction to Data Science and Its Role 
-This module provided a comprehensive introduction to data science, focusing on its integration with computer science, math & statistics, and domain expertise. This information was complemented by a discussion on the role of data scientists and how they contribute to the research environment. 
-How TEXTILE Works 
-The module showcased how TEXTILE functions, effectively illustrating the sequence of events starting from a pre-module activity through to post-module reflection and feedback. This clear structure allows for a consistent and streamlined learning experience. 
+**Module One: "TEXTILE Data Science in the Nance Lab"**
+
+*Typos/Inconsistencies:*
+- The only typo/ mistake identified on the slides was the date/time for the "Meet the PI" slide.  
+
+*Feedback on Following the Module:* 
+- Overall, I was able to follow the module effectively. The structure of the topics was logical, starting with an introduction to data science and the role of data science in the Nance Lab. The module then transitioned into a detailed view of the Lab, and I appreciated the walk-through of the data science/research modules. All interactive sessions were helpful in aiding with learning, and I found them useful in staying engaged with asynchronous learning. Ultimately, I think the module does a great job at introducing students to new and complex topics as well as laying out the topics/ concepts that we will dive into later in the summer. However, when introducing the topics we will learn about this summer in the Data Science part of the module, a lot of information was presented at once, which made it a bit challenging to keep up. Perhaps this section could be slowed down a bit, or further divided into smaller subtopics. 
+
+*Improved Summaries:* 
+*Introduction to Data Science and Its Role* 
+- This module provided a comprehensive introduction to data science, focusing on its integration with computer science, math & statistics, and domain expertise. This information was complemented by a discussion on the role of data scientists and how they contribute to the research environment.
+
+*How TEXTILE Works* 
+- The module showcased how TEXTILE functions, effectively illustrating the sequence of events starting from a pre-module activity through to post-module reflection and feedback. This clear structure allows for a consistent and streamlined learning experience. 
 Introduction to the Nance Lab 
-In this section, the activities and goals of the Nance Lab were highlighted, providing a strong understanding of the lab's focus on nanoparticle transport, compartmentalization, and fate. Additionally, this segment connected the lab's work with the broader context of health & biotech, data science, and advanced material development within the university community. 
-Interactive Sessions: 
-Interactive Session 1:  
-In this interactive session, the focus is on familiarizing students with navigating lab websites. The questions posed are effective in guiding the students to explore various features of the website and develop a comprehensive understanding of the lab's functioning and its research. 
-Possible improvements could include: 
-Specificity: The questions could be slightly more specific. For instance, instead of asking for "the prettiest image," I would have found it more useful if asked to identify a scientific image I found interesting and explain why, fostering engagement with the lab's research. 
-Guidance: Providing more context on why understanding lab websites is important, such as discussing how it aids in understanding the lab's research, could give students more motivation to engage with the task. I think the last question (why do you think I made you do this activity?) does a good job at beginning this exploration. 
-Interactive Session 2: 
-This session provides a practical approach to understanding the morphology of cells, specifically microglia. The questions are designed to encourage critical thinking and observation skills which are essential in data science. It's a great hands-on exercise for students to engage with actual images, look for specific characteristics, and learn to identify various aspects of cell health. Overall, the session is relevant and engages students with real-world applications of data science in biology. It is an effective tool for developing observational skills and understanding the importance of detail-oriented analysis in data science. 
-Potential improvements: 
-Prior Information: Since students are asked to identify various aspects of cell health, it could be useful to include more resources on the basics of cellular morphology, differentiating healthy cells from unhealthy ones, and identifying signs of cellular stress or damage. This would help further guide the exercise and give students some foundational knowledge to draw from. 
-Reasoning: Encourage students to explain their reasoning for each answer. This will help develop their ability to articulate their thought processes, a key skill in science, and also ensure they are not just guessing but truly engaging with the material. 
-D.S. Module 1 Reflection Questions: 
-This session aims to familiarize students with the concepts of cell morphology and health. The students are encouraged to critically analyze images, promoting an understanding of microglia morphology. 
-Areas for improvement: 
-I found that a lot of information was presented in the Data Science in the Nance Lab part of the module making it hard to keep up at times.  
-In-depth Discussion: Post-session, it could be beneficial to discuss the answers in depth, allowing students to understand what signs they may have missed or misconstrued in their analysis. 
+- In this section, the activities and goals of the Nance Lab were highlighted, providing a strong understanding of the lab's focus on nanoparticle transport, compartmentalization, and fate. Additionally, this segment connected the lab's work with the broader context of health & biotech, data science, and advanced material development within the university community. 
+
+**Interactive Sessions:** 
+*Interactive Session 1:*  
+- In this interactive session, the focus is on familiarizing students with navigating lab websites. The questions posed are effective in guiding the students to explore various features of the website and develop a comprehensive understanding of the lab's functioning and its research. 
+*Possible improvements could include:* 
+- Specificity: The questions could be slightly more specific. For instance, instead of asking for "the prettiest image," I would have found it more useful if asked to identify a scientific image I found interesting and explain why, fostering engagement with the lab's research. 
+- Guidance: Providing more context on why understanding lab websites is important, such as discussing how it aids in understanding the lab's research, could give students more motivation to engage with the task. I think the last question (why do you think I made you do this activity?) does a good job at beginning this exploration.
+
+*Interactive Session 2:* 
+- This session provides a practical approach to understanding the morphology of cells, specifically microglia. The questions are designed to encourage critical thinking and observation skills which are essential in data science. It's a great hands-on exercise for students to engage with actual images, look for specific characteristics, and learn to identify various aspects of cell health. Overall, the session is relevant and engages students with real-world applications of data science in biology. It is an effective tool for developing observational skills and understanding the importance of detail-oriented analysis in data science. 
+- Potential improvements: 
+- Prior Information: Since students are asked to identify various aspects of cell health, it could be useful to include more resources on the basics of cellular morphology, differentiating healthy cells from unhealthy ones, and identifying signs of cellular stress or damage. This would help further guide the exercise and give students some foundational knowledge to draw from. 
+- Reasoning: Encourage students to explain their reasoning for each answer. This will help develop their ability to articulate their thought processes, a key skill in science, and also ensure they are not just guessing but truly engaging with the material. 
+
+**D.S. Module 1 Reflection Questions:** 
+- This session aims to familiarize students with the concepts of cell morphology and health. The students are encouraged to critically analyze images, promoting an understanding of microglia morphology. 
+*Areas for improvement:* 
+- I found that a lot of information was presented in the Data Science in the Nance Lab part of the module making it hard to keep up at times.  
+- In-depth Discussion: Post-session, it could be beneficial to discuss the answers in depth, allowing students to understand what signs they may have missed or misconstrued in their analysis.
+-  
 A Data Scientist’s Role: 
 This interactive session does a good job of stimulating reflection on one's perceptions and stereotypes about data science and data scientists. The questions are thought-provoking and encourage students to critically examine their preconceptions. 
 Potential areas of improvement: 
